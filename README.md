@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-`Hello`
+<html>
+      <head>
+        <title>Hello</title>
+      </head>
+</html>
 
 ![outerspace-6](https://user-images.githubusercontent.com/60959263/217757761-175aa594-a3a2-4296-85dc-3b5759f8a914.gif)

@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+.markdown-body {
+  --md-code-background: #e3dcef;
+  --md-code-text: #4a2b7b;
+  --md-code-tabs: #c6b8dd;
+  --md-code-radius: 4px;
+}
+
 ```javascript Hello
 const whoIAm = {
     about: Fullstack Developer,

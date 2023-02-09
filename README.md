@@ -16,19 +16,23 @@ Here are some ideas to get you started:
 -->
 
 ```javascript React.js
-const amado = {
-    pronouns: "he" | "him",
-    code: [Javascript, HTML, CSS],
-    askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
+const whoIAm = {
+    about: "Fullstack Developer",
+    hobbies: ["play drums", "listen to music", "sing", "travel"],
     technologies: {
-        frontEnd: {
-            css: ["bootstrap", "materialize"]
+        FrontEnd: {
+            js: ["React.js", "Vue.js", "Angular.js", "Next.js"],
+            css: ["Bootstrap", "MaterialUI", "TailwindCSS"]
         },
-        backEnd: {
-            js: ["firebase", "node"]
-        }        
+        BackEnd: {
+            js: ["Node.js", "Express.js"],
+            php: ["Laravel"],
+            python: ["Django", "Flask"]
+        },
+        Databases: {
+            relational: ["SQL", "PostgresSQL", "Oracle"],
+            no-relational: ["Firebase", "MongoDB"]
+        } 
     }
 };
 ```
-
-![outerspace-6](https://user-images.githubusercontent.com/60959263/217757761-175aa594-a3a2-4296-85dc-3b5759f8a914.gif)

@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Victor Reyes 👋
 
 <!--
 **vreyesg26/vreyesg26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![HeaderLinkedin](https://user-images.githubusercontent.com/60959263/210979601-729d44df-5433-4561-99b9-985a05ec7c82.png)
+[![HeaderLinkedin](https://user-images.githubusercontent.com/60959263/210979601-729d44df-5433-4561-99b9-985a05ec7c82.png)](https://usagif.com/cdn-cgi/mirage/bee3c3fab7ff58a2764d98e0a2ebd5314f3a1036cb346968cbc4423b6cfeef58/1280/https://usagif.com/wp-content/uploads/gif/outerspace-6.gif)

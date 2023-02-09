@@ -36,6 +36,7 @@ const whoIAm = {
     }
 };
 ```
-```html
-Hello
+
+```windows
+Welcome to my Github Repo, you can find all my projects down here 👇🏻
 ```

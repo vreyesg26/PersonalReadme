@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ```javascript React.js
 const whoIAm = {
     about: "Fullstack Developer",
-    hobbies: ["play drums", "listen to music", "sing", "travel"],
+    hobbies: ["Play drums", "Listen to music", "Sing", "Travel"],
     technologies: {
         FrontEnd: {
-            js: ["React.js", "Vue.js", "Angular.js", "Next.js"],
+            js: [React.js, Vue.js, Angular.js, Next.js],
             css: ["Bootstrap", "MaterialUI", "TailwindCSS"]
         },
         BackEnd: {

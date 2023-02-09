@@ -1,4 +1,4 @@
-## Hi, I'm Victor Reyes 👋
+# Hi, I'm Victor Reyes 👋
 
 <!--
 **vreyesg26/vreyesg26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-.markdown-body {
-  --md-code-background: #e3dcef;
-  --md-code-text: #4a2b7b;
-  --md-code-tabs: #c6b8dd;
-  --md-code-radius: 4px;
-}
 
 ```javascript Hello
 const whoIAm = {
@@ -44,6 +37,6 @@ const whoIAm = {
 };
 ```
 
-```windows
+```javascript
 Welcome to my Github Repo, you can find all my projects down here 👇🏻
 ```

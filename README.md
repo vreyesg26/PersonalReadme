@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-`
-const victorReyes = {
+```javascript React.js
+const amado = {
+    pronouns: "he" | "him",
     code: [Javascript, HTML, CSS],
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
     technologies: {
@@ -28,6 +29,6 @@ const victorReyes = {
         }        
     }
 };
-`
+```
 
 ![outerspace-6](https://user-images.githubusercontent.com/60959263/217757761-175aa594-a3a2-4296-85dc-3b5759f8a914.gif)

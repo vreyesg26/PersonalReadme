@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```javascript React.js
+```javascript Hello
 const whoIAm = {
     about: Fullstack Developer,
     hobbies: ["Play drums", "Listen to music", "Sing", "Travel"],

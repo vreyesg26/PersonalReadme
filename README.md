@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/60959263/220229547-1b91ad2c-13af-4dbe-b696-795752f21cd3.png)  Hi, I'm Victor Reyes 👋
+# ![logo](https://user-images.githubusercontent.com/60959263/220229722-d4f0607a-981e-4adf-aa37-1d9abf02dd55.png)  Hi, I'm Victor Reyes 👋
 
 <!--
 **vreyesg26/vreyesg26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
